@@ -3,28 +3,72 @@
     {
       "id": 1,
       "title": "Worki w tłum",
-      "artists:" ["Oki", "Young Igi", "Otsochodzi", "OIO"],
+      "artists:" [
+         {
+           "nickname": "Oki",
+           "firstName": "Oskar",
+           "lastName": "Kamiński"
+         }, 
+         {
+           "nickname": "Young Igi",
+           "firstName": "Igor",
+           "lastName": "Ośmiałowski"
+         }, 
+         {
+           "nickname": "Otsochodzi",
+           "firstName": "Miłosz",
+           "lastName": "Stępień"
+         }
+      ],
       "genre": "Hip-hop",
       "releaseYear": "2021"
     },
     {
       "id": 2,
       "title": "Disney",
-      "artists:" ["Kizo"],
+      "artists:" [
+        {
+          "nickname": "Kizo",
+          "firstName": "Patryk",
+          "lastName": "Woziński"
+        }
+      ],
       "genre": "Hip-hop",
       "releaseYear": "2021"
     },
     {
       "id": 3,
       "title": "Explosion",
-      "artists:" ["Kalwi", "Remi"],
+      "artists:" [
+         {
+           "nickname": "Kalwi",
+           "firstName": "Krzysztof",
+           "lastName": "Kalwat"
+         }, 
+         {
+           "nickname": "Remi",
+           "firstName": "Remigiusz",
+           "lastName": "Pośpiech"
+         }, 
+      ],
       "genre": "Techno",
       "releaseYear": "2006"
     },
     {
       "id": 4,
       "title": "Otwieram wino",
-      "artists:" ["Sidney Polak", "Pezet"],
+      "artists:" [
+         {
+           "nickname": "Sidney Polak",
+           "firstName": "Jarosław",
+           "lastName": "Polak"
+         }, 
+         {
+           "nickname": "Pezet",
+           "firstName": "Paweł",
+           "lastName": "Kapliński"
+         }, 
+      ],
       "genre": "Reggae",
       "releaseYear": "2004"
     }
